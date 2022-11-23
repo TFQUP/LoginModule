@@ -1,0 +1,22 @@
+{
+  "name": "LoginModule",
+  "version": "0.1.0",
+  "summary": "A short description of LoginModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TFQUP/LoginModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TFQUP": "8791703+tfqup@user.noreply.gitee.com"
+  },
+  "source": {
+    "git": "https://github.com/TFQUP/LoginModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LoginModule/Classes/**/*"
+}
